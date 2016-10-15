@@ -1,4 +1,4 @@
-princples of programming
+Princples of Programming
 
 	1 code is unforgiving
 	2 break the problem up into pieces
@@ -7,5 +7,7 @@ princples of programming
 	5 be nice to your future self and leave comments
 
 
-GitHub
+GitHub Notes
+	git clone https://github.com/MatthewYancey/programming-for-kids.git
+
 
