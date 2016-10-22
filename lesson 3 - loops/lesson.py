@@ -31,11 +31,3 @@ for i in range(11):
 # the loop will automaticly start at 0, unless we tell it otherwise
 for i in range(5, 11):
 	print(i)
-
-
-# we can also combine loops with if statements
-for i in range(11):
-	if i < 5:
-		print('i is less than 5')
-	else:
-		print('i is more or equal to 5')
